@@ -1,0 +1,1 @@
+echo backups/smiles_db_database.sql >> .gitignore
