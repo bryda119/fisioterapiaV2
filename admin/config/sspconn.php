@@ -2,7 +2,7 @@
 $sql_details = array(
     'user' => 'root',
     'pass' => '',
-    'db'   => 'smiles_db',
+    'db'   => 'fisioterapia',
     'host' => 'localhost'
 );
 ?>
