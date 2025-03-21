@@ -1,1 +1,9 @@
-# fisioterapiaV2
+# Clinica
+Nuestra plataforma de gestión clínica es un sistema robusto desarrollado en línea con las mejores prácticas de programación. Diseñado meticulosamente para abordar las complejidades de la gestión de citas médicas y el seguimiento de pacientes, ofrece una amplia gama de funciones y características avanzadas. Desde la creación de perfiles de pacientes hasta el seguimiento detallado de historias clínicas, nuestro sistema integra módulos dedicados para pacientes, médicos, administradores y personal, garantizando una gestión eficiente y personalizada en todo momento. Con un enfoque en la escalabilidad, la seguridad y la usabilidad, nuestro sistema se erige como una solución integral para las necesidades tecnológicas de la industria médica.
+- **Módulo de Pacientes**: Permite a los pacientes registrar sus datos personales, médicos y de contacto, así como programar y gestionar citas médicas. También pueden acceder a sus historias clínicas, resultados de pruebas y cualquier otra información relevante sobre su atención médica.
+
+- **Módulo de Doctores**: Facilita a los médicos el acceso a la agenda de citas, la información de los pacientes asignados, el registro de diagnósticos y tratamientos, la emisión de recetas médicas, así como la comunicación interna con otros profesionales de la salud y el personal administrativo.
+
+- **Módulo de Administradores**: Permite a los administradores supervisar y gestionar el funcionamiento general del sistema, incluida la asignación de permisos de acceso, la generación de informes sobre la utilización de recursos y la administración de la base de datos de pacientes y médicos.
+
+- **Módulo de Personal**: Diseñado para el personal administrativo y de apoyo, este módulo facilita tareas como la gestión de archivos, la coordinación de agendas, el registro de pagos y facturación, así como la comunicación con pacientes y médicos para coordinar citas y resolver cualquier problema administrativo.
